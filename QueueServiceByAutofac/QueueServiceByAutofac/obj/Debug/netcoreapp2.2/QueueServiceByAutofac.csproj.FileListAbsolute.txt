@@ -1,0 +1,11 @@
+C:\Users\marcossou\source\repos\Labs\QueueServiceByAutofac\QueueServiceByAutofac\bin\Debug\netcoreapp2.2\QueueServiceByAutofac.deps.json
+C:\Users\marcossou\source\repos\Labs\QueueServiceByAutofac\QueueServiceByAutofac\bin\Debug\netcoreapp2.2\QueueServiceByAutofac.runtimeconfig.json
+C:\Users\marcossou\source\repos\Labs\QueueServiceByAutofac\QueueServiceByAutofac\bin\Debug\netcoreapp2.2\QueueServiceByAutofac.runtimeconfig.dev.json
+C:\Users\marcossou\source\repos\Labs\QueueServiceByAutofac\QueueServiceByAutofac\bin\Debug\netcoreapp2.2\QueueServiceByAutofac.dll
+C:\Users\marcossou\source\repos\Labs\QueueServiceByAutofac\QueueServiceByAutofac\obj\Debug\netcoreapp2.2\QueueServiceByAutofac.csprojAssemblyReference.cache
+C:\Users\marcossou\source\repos\Labs\QueueServiceByAutofac\QueueServiceByAutofac\obj\Debug\netcoreapp2.2\QueueServiceByAutofac.csproj.CoreCompileInputs.cache
+C:\Users\marcossou\source\repos\Labs\QueueServiceByAutofac\QueueServiceByAutofac\obj\Debug\netcoreapp2.2\QueueServiceByAutofac.AssemblyInfoInputs.cache
+C:\Users\marcossou\source\repos\Labs\QueueServiceByAutofac\QueueServiceByAutofac\obj\Debug\netcoreapp2.2\QueueServiceByAutofac.AssemblyInfo.cs
+C:\Users\marcossou\source\repos\Labs\QueueServiceByAutofac\QueueServiceByAutofac\bin\Debug\netcoreapp2.2\QueueServiceByAutofac.pdb
+C:\Users\marcossou\source\repos\Labs\QueueServiceByAutofac\QueueServiceByAutofac\obj\Debug\netcoreapp2.2\QueueServiceByAutofac.dll
+C:\Users\marcossou\source\repos\Labs\QueueServiceByAutofac\QueueServiceByAutofac\obj\Debug\netcoreapp2.2\QueueServiceByAutofac.pdb
